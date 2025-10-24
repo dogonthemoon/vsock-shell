@@ -1,3 +1,5 @@
+**[English](README.md), [中文](README_ZH.md)**
+
 # vsock-shell
 
 一个基于VM sockets的轻量级远程shell和文件传输工具，专为Linux虚拟机间通信设计。
@@ -327,4 +329,4 @@ vsock-shell-client -v 3
 
 感谢所有为本项目做出贡献的开发者和用户。
 
-**其他语言版本: [English](README.md), [中文](README_zh.md).**
+

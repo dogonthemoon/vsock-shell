@@ -1,3 +1,5 @@
+**[English](README.md), [中文](README_ZH.md)**
+
 # vsock-shell
 
 A lightweight remote shell and file transfer tool based on VM sockets, designed for communication between Linux virtual machines.
@@ -327,4 +329,3 @@ For questions or suggestions, please contact through:
 
 Thanks to all developers and users who have contributed to this project.
 
-**其他语言版本: [English](README.md), [中文](README_zh.md).**
