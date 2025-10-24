@@ -1,0 +1,37 @@
+# Compiled binaries
+*.o
+*.a
+client/vsock-shell-client
+server/vsock-shell-server
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Build artifacts
+*.d
+.deps/
+
+# Editor files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+*.sublime-*
+
+# Core dumps
+core
+core.*
+
+# Test files
+test_*
+*.test
+
+# Distribution
+*.tar.gz
+*.zip
+dist/
+build/
